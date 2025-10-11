@@ -4,6 +4,10 @@ gitlab使用
 
 环境准备,推荐使用wsl的Ubuntu22.04
 
+---
+
+
+
 ## wsl下载
 
 ### 配置电脑选项
@@ -57,3 +61,5 @@ wget --content-disposition https://packages.gitlab.com/gitlab/gitlab-ce/packages
 sudo dpkg -i gitlab-ce_12.1.4-ce.0_amd64.deb
 
 该过程释放压缩包的内存较大，需要的时间可能有点久，所以耐心等待
+
+---
