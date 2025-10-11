@@ -31,3 +31,5 @@ git clone xxxxxx
 git init
 
 然后再输入，git remote add origin xxxxxxx，即可完成绑定
+
+其中，
