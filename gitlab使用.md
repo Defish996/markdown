@@ -56,4 +56,4 @@ wget --content-disposition https://packages.gitlab.com/gitlab/gitlab-ce/packages
 
 sudo dpkg -i gitlab-ce_12.1.4-ce.0_amd64.deb
 
-该过程需要的
+该过程释放需要的时间可能有点久，所以耐心等待
