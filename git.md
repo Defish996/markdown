@@ -34,3 +34,9 @@ git init
 
 其中，git remote add 是固定语法，表示想绑定远程仓库
 origin是远程仓库的别名，可以自己随意
+
+# 使用三板斧
+
+git add .
+
+git commit -m "这串代码是...."
