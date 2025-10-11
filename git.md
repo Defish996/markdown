@@ -49,3 +49,9 @@ git commit -m "这串代码是...."
 上述注意没有问题之后，继续执行
 
 git push origin master，进行代码的远程推送
+
+其中，git push是想要上传代码的固定组合
+
+origin表示刚才的别名
+
+master表示该仓库内的分支，其中，这个表示主分支
