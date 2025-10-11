@@ -33,3 +33,4 @@ git init
 然后再输入，git remote add origin xxxxxxx，即可完成绑定
 
 其中，git remote add 是固定语法，表示想绑定远程仓库
+origin是远程仓库的别名，可以自己随意
