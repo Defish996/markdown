@@ -12,6 +12,8 @@ gitlab使用
 
 ![image.png](/assets/355bcf13-e710-44be-9c38-0e6781305063.png)
 
+勾选 适用于Linux的Windows子系统
+
 然后进行重启电脑
 
 ### 下载wsl
