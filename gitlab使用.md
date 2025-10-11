@@ -10,7 +10,7 @@ gitlab使用
 
 使用前打开对应选项
 
-![C__Users_1_AppData_Roaming_com.codexu.NoteGen_article__assets_355bcf13-e710-44be-9c38-0e6781305063.png](undefined)
+![C__Users_1_AppData_Roaming_com.codexu.NoteGen_article__assets_355bcf13-e710-44be-9c38-0e6781305063.png](https://cdn.jsdelivr.net/gh/Defish996/Pictrue-bed@main/d30d4605-485d-464b-b154-f13a4ecb95a7.png)
 
 勾选 适用于Linux的Windows子系统
 
@@ -36,7 +36,7 @@ wsl --install -d Ubuntu-24.04
 
 若关闭代理还是不行，则需要从系统进行代理的关闭
 
-如图：![C__Users_1_AppData_Roaming_com.codexu.NoteGen_article__assets_355bcf13-e710-44be-9c38-0e6781305063.png](https://cdn.jsdelivr.net/gh/Defish996/Pictrue-bed@main/ceecc389-697a-4cd7-ac34-68efd3741820.png)
+如图：
 
 ![C__Users_1_AppData_Roaming_com.codexu.NoteGen_article__assets_e3c56d86-a67d-4897-ad23-f39c9bc1dd74.png](https://cdn.jsdelivr.net/gh/Defish996/Pictrue-bed@main/9b8db1b3-2078-4ea4-ae71-067f059b6d74.png)
 
