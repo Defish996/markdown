@@ -54,4 +54,6 @@ wget --content-disposition https://packages.gitlab.com/gitlab/gitlab-ce/packages
 
 下载完成之后进行解压安装
 
-dpkg -i
+sudo dpkg -i gitlab-ce_12.1.4-ce.0_amd64.deb
+
+该过程需要的
