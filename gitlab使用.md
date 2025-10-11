@@ -51,3 +51,7 @@ wsl --install -d Ubuntu-24.04
 wget --content-disposition https://packages.gitlab.com/gitlab/gitlab-ce/packages/ubuntu/xenial/gitlab-ce_12.1.4-ce.0_amd64.deb/download.deb
 
 等待下载完成即可
+
+下载完成之后进行解压安装
+
+dpkg -i
