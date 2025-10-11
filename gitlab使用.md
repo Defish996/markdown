@@ -10,6 +10,7 @@ gitlab使用
 
 使用前打开对应选项
 
+![C__Users_1_AppData_Roaming_com.codexu.NoteGen_article__assets_355bcf13-e710-44be-9c38-0e6781305063.png](undefined)
 
 勾选 适用于Linux的Windows子系统
 
