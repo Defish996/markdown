@@ -38,7 +38,7 @@ wsl --install -d Ubuntu-24.04
 
 如图：
 
-![image.png](/assets/e3c56d86-a67d-4897-ad23-f39c9bc1dd74.png)
+![C__Users_1_AppData_Roaming_com.codexu.NoteGen_article__assets_e3c56d86-a67d-4897-ad23-f39c9bc1dd74.png](https://cdn.jsdelivr.net/gh/Defish996/Pictrue-bed@main/9b8db1b3-2078-4ea4-ae71-067f059b6d74.png)
 
 在最后将代理服务器的对勾取消，此时便能正常访问Microsoft store，这时也能正常进行wsl的下载
 
