@@ -26,7 +26,8 @@ git clone xxxxxx
 
 ## 第二种，使用init
 
-在本地新建一个文件夹，然后在新文件夹内
+在本地新建一个文件夹，然后在新文件夹内进行
 
-```
-```
+git init
+
+然后再输入，git remote add origin xxxxxxx，
