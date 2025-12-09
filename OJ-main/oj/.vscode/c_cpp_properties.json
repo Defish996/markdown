@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/comm",
+                "${workspaceFolder}/compile_server",
+                "${workspaceFolder}/oj_server",
+                "C:/usr/include"
+            ],
+            "defines": [],
+            "windowsSdkVersion": "",
+            "compilerPath": "C:/Users/1/Downloads/mingw64/bin/g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseEngine": "default",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**",
+                    "${workspaceFolder}/comm",
+                    "${workspaceFolder}/compile_server",
+                    "${workspaceFolder}/oj_server"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}
