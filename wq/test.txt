@@ -1,0 +1,2 @@
+model77
+ts_min(ts_returns(group_scale(mdl77_2earningsqualityfactor_cogsinvt, industry), 660), 250)
